@@ -1,0 +1,10 @@
+package likey;
+
+public class LikeyDAO {
+	
+	public int like (String userID, String evaluationID, String userIP) {
+		
+	}
+	
+	
+}
